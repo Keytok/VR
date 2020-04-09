@@ -4,8 +4,6 @@ Intermediate
 Saved
 Content/*
 !Content/Keytok/
-!Content/FirstPersonBP/
-!Content/tugas2*
 .vscode
 .vs
 *.VC.db
