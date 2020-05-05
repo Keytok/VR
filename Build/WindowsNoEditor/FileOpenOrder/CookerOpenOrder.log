@@ -1,0 +1,571 @@
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/BananaCollector/Materials/M_Turntable.uasset" 0
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset" 1
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 2
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uasset" 3
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset" 4
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/FirstPerson/Meshes/BaseMaterial.uasset" 5
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/FirstPerson/Meshes/FirstPersonProjectileMaterial.uasset" 6
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset" 7
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/FirstPersonBP/FirstPersonOverview.uasset" 8
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/FirstPerson/Textures/HybridCrosshair.uasset" 9
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/HybridHUD.uasset" 10
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/S_Text_Blueprint.uasset" 11
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/V_Text_Blueprint.uasset" 12
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/fitbar/UV_Fitbar.uasset" 13
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/fitbar/UV_Fitbar2.uasset" 14
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/fitbar/m_fitbar.uasset" 15
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/blinn2.uasset" 16
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/fitbar/prop_fitbar.uasset" 17
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/health/UV_health.uasset" 18
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/health/UV_health2.uasset" 19
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/health/m_health.uasset" 20
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/blinn1.uasset" 21
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/health/prop_health.uasset" 22
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/lanterns/UV_Lantern4.uasset" 23
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/lanterns/UV_LanternFINAL.uasset" 24
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/stoves/blinn1.uasset" 25
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/stoves/prop_stove_pCube5.uasset" 26
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/stoves/prop_stove_pCube6.uasset" 27
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/stoves/prop_stove_pCube7.uasset" 28
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/stoves/prop_stove_pCube8.uasset" 29
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Maps/Testing/HybridMap_BuiltData.uasset" 30
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 31
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DepthFromWorldPosition.uasset" 32
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/VirtualReality/Materials/MF_OccludedPixels.uasset" 33
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/VirtualReality/Materials/TeleportMCP.uasset" 34
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 35
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/VirtualReality/Materials/M_TeleportPreviews.uasset" 36
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/VirtualReality/Materials/MI_ChaperoneOutline.uasset" 37
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/VirtualReality/Materials/MI_TeleportCylinderPreview.uasset" 38
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 39
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 40
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ScreenResolution.uasset" 41
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedUVs.uasset" 42
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/VirtualReality/Materials/M_ArcEndpoint.uasset" 43
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/VirtualReality/Materials/M_SplineArcMat.uasset" 44
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 45
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 46
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 47
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 48
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/VirtualReality/Meshes/1x1_cube.uasset" 49
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/VirtualReality/Meshes/BeaconDirection.uasset" 50
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/VirtualReality/Meshes/BeamMesh.uasset" 51
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/VirtualReality/Meshes/SM_FatCylinder.uasset" 52
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/RollingBP/RollingOverview.uasset" 53
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 54
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 55
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 56
+"../../../Engine/Content/BasicShapes/Cone.uasset" 57
+"../../../Engine/Content/BasicShapes/Plane.uasset" 58
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 59
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 60
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 61
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 62
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 63
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 64
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 65
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 66
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 67
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 68
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 69
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 70
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 71
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 72
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 73
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 74
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 75
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 76
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 77
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 78
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 79
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 80
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 81
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 82
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 83
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 84
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 85
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 86
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 87
+"../../../Engine/Content/EditorResources/S_Note.uasset" 88
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 89
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 90
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 91
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 92
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 93
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 94
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 95
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 96
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 97
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 98
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 99
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 100
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 101
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 102
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 103
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 104
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 105
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 106
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 107
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 108
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 109
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 110
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 111
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 112
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 113
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 114
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 115
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 116
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 117
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 118
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 119
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 120
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 121
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 122
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 123
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 124
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 125
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 126
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 127
+"../../../Engine/Content/EngineMaterials/DefaultVirtualTextureMaterial.uasset" 128
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 129
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 130
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 131
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 132
+"../../../Engine/Content/EngineMaterials/HairDefaultMaterial.uasset" 133
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 134
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 135
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 136
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 137
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 138
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 139
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 140
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 141
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 142
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 143
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 144
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 145
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 146
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 147
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 148
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 149
+"../../../Engine/Content/EngineMeshes/Cube.uasset" 150
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 151
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 152
+"../../../Engine/Content/EngineResources/Black.uasset" 153
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 154
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 155
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 156
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 157
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 158
+"../../../Engine/Content/EngineSounds/Master.uasset" 159
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 160
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 161
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 162
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 163
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 164
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 165
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 166
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 167
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 168
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 169
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 170
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 171
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 172
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 173
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 174
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 175
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 176
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 177
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 178
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 179
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 180
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 181
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 182
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 183
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 184
+"../../../Engine/Content/Tutorial/Basics/ContentBrowserOverview.uasset" 185
+"../../../Engine/Content/Tutorial/Basics/FeaturePacks.uasset" 186
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 187
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 188
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 189
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/CameraActor_64x.uasset" 190
+"../../../Engine/Content/Tutorial/Basics/ViewportsTutorial.uasset" 191
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 192
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 193
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintInterface_64x.uasset" 194
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintInterfacesEditorOverview.uasset" 195
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintMacroLibrary_64x.uasset" 196
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintMacroLibrariesEditorOverview.uasset" 197
+"../../../Engine/Content/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview.uasset" 198
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Interface.uasset" 199
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_MacroLib.uasset" 200
+"../../../Engine/Content/Tutorial/SubEditors/MaterialEditorTutorial.uasset" 201
+"../../../Engine/Content/Tutorial/SubEditors/ParticleSystemEditorTutorial.uasset" 202
+"../../../Engine/Content/Tutorial/SubEditors/StaticMeshEditorTutorial.uasset" 203
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 204
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_SmokeSubUV_8X8.uasset" 205
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_soft_smoke.uasset" 206
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody.uasset" 207
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset" 208
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 209
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 210
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 211
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 212
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 213
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 214
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 215
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 216
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 217
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 218
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 219
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 220
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 221
+"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 222
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 223
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 224
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 225
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 226
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 227
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 228
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 229
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 230
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 231
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 232
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 233
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 234
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 235
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 236
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 237
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 238
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 239
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 240
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 241
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 242
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 243
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 244
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Banana/Banana_Texture.uasset" 245
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Banana/Banana_Material.uasset" 246
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Banana/Banana_Model.uasset" 247
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Banana/Banana_Blueprint.uasset" 248
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Banana/Banana_Level_BuiltData.uasset" 249
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 250
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Banana/Banana_Level.umap" 251
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/BananaCollector/Textures/T_Banana_D.uasset" 252
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/BananaCollector/Materials/M_Banana.uasset" 253
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/BananaCollector/Meshes/SM_Banana.uasset" 254
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/BananaCollector/Blueprints/BP_Banana.uasset" 255
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/BananaCollector/Materials/M_Cube.uasset" 256
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/BananaCollector/Meshes/SM_Cube.uasset" 257
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/BananaCollector/Blueprints/BP_Player.uasset" 258
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/BananaCollector/Blueprints/GM_Tutorial.uasset" 259
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/BananaCollector/Maps/TutorialMap_BuiltData.uasset" 260
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/BananaCollector/Materials/M_Level.uasset" 261
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/BananaCollector/Maps/TutorialMap.umap" 262
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset" 263
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/FirstPerson/Animations/FirstPerson_Idle.uasset" 264
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/FirstPerson/Animations/FirstPerson_JumpEnd.uasset" 265
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/FirstPerson/Animations/FirstPerson_JumpLoop.uasset" 266
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/FirstPerson/Animations/FirstPerson_JumpStart.uasset" 267
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/FirstPerson/Animations/FirstPerson_Run.uasset" 268
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset" 269
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/FirstPerson/Animations/FirstPerson_Fire.uasset" 270
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/FirstPerson/Animations/FirstPersonFire_Montage.uasset" 271
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset" 272
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 273
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 274
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 275
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 276
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 277
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 278
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 279
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 280
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 281
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 282
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 283
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.uasset" 284
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 285
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uasset" 286
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset" 287
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset" 288
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 289
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 290
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 291
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 292
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset" 293
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 294
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 295
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 296
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/FirstPerson/FPWeapon/Textures/T_FPGun_M.uasset" 297
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/FirstPerson/FPWeapon/Textures/T_FPGun_N.uasset" 298
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/FirstPerson/FPWeapon/Materials/M_FPGun.uasset" 299
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset" 300
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun.uasset" 301
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" 302
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/FirstPerson/Textures/FirstPersonCrosshair.uasset" 303
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset" 304
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" 305
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 306
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 307
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/FirstPerson/Meshes/CubeMaterialOverride.uasset" 308
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Geometry/Meshes/CubeMaterial.uasset" 309
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Geometry/Meshes/1M_Cube.uasset" 310
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" 311
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right_Skeleton.uasset" 312
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/VirtualReality/Mannequin/Animations/MannequinHand_Right_CanGrab.uasset" 313
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/VirtualReality/Mannequin/Animations/MannequinHand_Right_Grab.uasset" 314
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/VirtualReality/Mannequin/Animations/MannequinHand_Right_Open.uasset" 315
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/VirtualReality/Mannequin/Animations/RightGrip_BS.uasset" 316
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/GripEnum.uasset" 317
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/VirtualReality/Mannequin/Animations/RightHand_AnimBP.uasset" 318
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right_Skeleton.uasset" 319
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_CanGrab.uasset" 320
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_Grab.uasset" 321
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_Open.uasset" 322
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/VirtualReality/Mannequin/Animations/RightGrip_BS.uasset" 323
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/VirtualRealityBP/Blueprints/PickupActorInterface.uasset" 324
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/VirtualRealityBP/Blueprints/MotionControllerHaptics.uasset" 325
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/VirtualReality/Materials/MF_OccludedPixels.uasset" 326
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/VirtualReality/Materials/TeleportMCP.uasset" 327
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/VirtualReality/Materials/M_ArcEndpoint.uasset" 328
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/VirtualReality/Materials/M_SplineArcMat.uasset" 329
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/VirtualReality/Materials/M_TeleportPreviews.uasset" 330
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/VirtualReality/Materials/MI_ChaperoneOutline.uasset" 331
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/VirtualReality/Materials/MI_TeleportCylinderPreview.uasset" 332
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 333
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/VirtualReality/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 334
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/VirtualReality/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 335
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/VirtualReality/Mannequin/Character/Materials/M_HandMat.uasset" 336
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right_PhysicsAsset.uasset" 337
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right.uasset" 338
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/VirtualReality/Meshes/1x1_cube.uasset" 339
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/VirtualReality/Meshes/BeaconDirection.uasset" 340
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/VirtualReality/Meshes/BeamMesh.uasset" 341
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/VirtualReality/Meshes/SM_FatCylinder.uasset" 342
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/VirtualRealityBP/Blueprints/GripEnum.uasset" 343
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset" 344
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/VirtualReality/Mannequin/Animations/RightHand_AnimBP.uasset" 345
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/PickupActorInterface.uasset" 346
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/MotionControllerHaptics.uasset" 347
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/BP_MotionController.uasset" 348
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/GrabShake.uasset" 349
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/PlayerInstance.uasset" 350
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/RunningShake.uasset" 351
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/SanityShake.uasset" 352
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/ShowText.uasset" 353
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/UI/ui_upscaled4.uasset" 354
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/UI/Healthbar.uasset" 355
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/UI/Pausemenu.uasset" 356
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/VirtualReality/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 357
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/VirtualReality/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 358
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/VirtualReality/Mannequin/Character/Materials/M_HandMat.uasset" 359
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right_PhysicsAsset.uasset" 360
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right.uasset" 361
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/HybridPawn.uasset" 362
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/HybridGameMode.uasset" 363
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Maps/HybridMap_BuiltData.uasset" 364
+"../../../Engine/Content/VREditor/BasicMeshes/T_CleanFloorGrunge_01_D.uasset" 365
+"../../../Engine/Content/VREditor/BasicMeshes/M_Floor_01.uasset" 366
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Ball_01.uasset" 367
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Ball_01.uasset" 368
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_01.uasset" 369
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_01.uasset" 370
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_02.uasset" 371
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_02.uasset" 372
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_03.uasset" 373
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_03.uasset" 374
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Pyramid_01.uasset" 375
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Pyramid_01.uasset" 376
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Room_01.uasset" 377
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Maps/HybridMap.umap" 378
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/I_Text_Blueprint.uasset" 379
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/N_Text_Blueprint.uasset" 380
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/O_Text_Blueprint.uasset" 381
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level.uasset" 382
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Materials/Black.uasset" 383
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Materials/Blue.uasset" 384
+"../../../Engine/Content/BasicShapes/Cube.uasset" 385
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Numpad.uasset" 386
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/door/UV_Door.uasset" 387
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/door/UV_Door2.uasset" 388
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/door/door.uasset" 389
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/blinn(gj)/blinn1.uasset" 390
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/door/prop_door.uasset" 391
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/prop_door_Blueprint.uasset" 392
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/glass/UV_Glasses.uasset" 393
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/glass/UV_Glasses2.uasset" 394
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/glass/glass.uasset" 395
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/glass/prop_glasses.uasset" 396
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/prop_glasses_Blueprint.uasset" 397
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/fitbar/UV_Fitbar.uasset" 398
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/fitbar/UV_Fitbar2.uasset" 399
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/fitbar/m_fitbar.uasset" 400
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/fitbar/blinn2.uasset" 401
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/fitbar/prop_fitbar.uasset" 402
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/prop_fitbar_Blueprint.uasset" 403
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/health/UV_health.uasset" 404
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/health/UV_health2.uasset" 405
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/health/m_health.uasset" 406
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/health/blinn1.uasset" 407
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/health/prop_health.uasset" 408
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/prop_health_Blueprint.uasset" 409
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Maps/Level1_BuiltData.uasset" 410
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/barrels/UV_Barrel.uasset" 411
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/barrels/UV_Barrel2.uasset" 412
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/barrels/barreltext.uasset" 413
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/book/UV_Book.uasset" 414
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/book/UV_Book2.uasset" 415
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/book/propbook.uasset" 416
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/bookshelf/UV_BookCase.uasset" 417
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/bookshelf/UV_BookCase2.uasset" 418
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/bookshelf/shelftrue.uasset" 419
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/bottles/UV_Bottle.uasset" 420
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/bottles/UV_Bottle2.uasset" 421
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/bottles/bottletext.uasset" 422
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/UV_Floor.uasset" 423
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/UV_Floor2.uasset" 424
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/floorstext.uasset" 425
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/lanterns/UV_Lantern1.uasset" 426
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/lanterns/UV_Lantern1_Mat.uasset" 427
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/lanterns/UV_Lantern2.uasset" 428
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/lanterns/UV_Lantern2_Mat.uasset" 429
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/lanterns/UV_Lantern3.uasset" 430
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/lanterns/UV_Lantern3_Mat.uasset" 431
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/lanterns/UV_Lantern5.uasset" 432
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/lanterns/UV_Lantern5_Mat.uasset" 433
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/paper/UV_PaperClue.uasset" 434
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/paper/UV_PaperClue2.uasset" 435
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/paper/paper.uasset" 436
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/radio/UV_Radio.uasset" 437
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/radio/UV_Radio2.uasset" 438
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/radio/radiotext.uasset" 439
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/shelfs/UV_Shelf.uasset" 440
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/shelfs/UV_Shelf2.uasset" 441
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/shelfs/shelfz.uasset" 442
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/shelfs/UV_ShelfLegz.uasset" 443
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/shelfs/UV_ShelfLegz2.uasset" 444
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/shelfs/shelfzleg.uasset" 445
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/table/UV_TableLeg.uasset" 446
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/table/UV_TableLeg2.uasset" 447
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/table/tableleg.uasset" 448
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/table/UV_Table.uasset" 449
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/table/UV_Table2.uasset" 450
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/table/tables.uasset" 451
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/walls/UV_Walls.uasset" 452
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/walls/UV_Walls2.uasset" 453
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/walls/wallfloorstext.uasset" 454
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Materials/GlowOutline.uasset" 455
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/Barrel.uasset" 456
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/barrels/prop_barrel.uasset" 457
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/barrels/prop_barrel1.uasset" 458
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/barrels/prop_barrel2.uasset" 459
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/book/booktwo.uasset" 460
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/book/prop_book.uasset" 461
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/book/prop_book1.uasset" 462
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/book/prop_book2.uasset" 463
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/book/prop_book3.uasset" 464
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/book/prop_book4.uasset" 465
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/lambert1.uasset" 466
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/bookshelf/prop_bookshelf.uasset" 467
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/bottles/prop_bottle.uasset" 468
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/bottles/prop_bottle1.uasset" 469
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/bottles/prop_bottle2.uasset" 470
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/blinn(gj)/blinn2.uasset" 471
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/blinn(gj)/blinn3.uasset" 472
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/blinn(gj)/blinn4.uasset" 473
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/blinn(gj)/blinn5.uasset" 474
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/blinn(gj)/blinn6.uasset" 475
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/lanterns/prop_lantern.uasset" 476
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/paper/prop_paperclue.uasset" 477
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/radio/prop_radio.uasset" 478
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/shelfs/Shelf.uasset" 479
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/shelfs/ShelfLegz.uasset" 480
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/shelfs/prop_shelf__1_.uasset" 481
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/table/Table.uasset" 482
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/table/TableLegz.uasset" 483
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/table/prop_table.uasset" 484
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Level1/table/tablez.uasset" 485
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Maps/Level1.umap" 486
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/buttons/UV_Button1.uasset" 487
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/buttons/UV_Button1_2.uasset" 488
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/buttons/m_button1.uasset" 489
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/buttons/UV_Button2.uasset" 490
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/buttons/m_button2.uasset" 491
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/buttons/blinn1.uasset" 492
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/buttons/prop_button1.uasset" 493
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/buttons/blinn2.uasset" 494
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/buttons/prop_button2.uasset" 495
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/prop_button_Blueprint.uasset" 496
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/cabindoors/UV_Cabinetdoor.uasset" 497
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/cabindoors/UV_Cabinetdoor2.uasset" 498
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/cabindoors/m_cabindoor.uasset" 499
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/cabindoors/blinn1.uasset" 500
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/cabindoors/prop_cabinetdoor.uasset" 501
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/prop_cabinetdoor_Blueprint.uasset" 502
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Maps/level2_BuiltData.uasset" 503
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/airvent/UV_AirVent.uasset" 504
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/airvent/UV_AirVent2.uasset" 505
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/airvent/m_airvent.uasset" 506
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/cabinets/UV_Cabinet.uasset" 507
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/cabinets/UV_Cabinet2.uasset" 508
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/cabinets/m_cabinet.uasset" 509
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/candles/UV_Candle.uasset" 510
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/candles/UV_Candle2.uasset" 511
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/candles/m_candle.uasset" 512
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/pot/UV_Pot.uasset" 513
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/pot/UV_Pot_Mat.uasset" 514
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/stoves/UV_stove.uasset" 515
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/stoves/UV_stove2.uasset" 516
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/stoves/m_stove.uasset" 517
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/tablebar/UV_TableBar.uasset" 518
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/tablebar/UV_TableBar2.uasset" 519
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/tablebar/m_tablebar.uasset" 520
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/airvent/blinn1.uasset" 521
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/airvent/prop_airvent.uasset" 522
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/cabinets/blinn2.uasset" 523
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/cabinets/prop_cabinet.uasset" 524
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/candles/blinn1.uasset" 525
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/candles/prop_candle.uasset" 526
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/pot/blinn1.uasset" 527
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/pot/prop_pot.uasset" 528
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/stoves/prop_stove_pCube1.uasset" 529
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/stoves/prop_stove_pCube2.uasset" 530
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/stoves/prop_stove_pCube3.uasset" 531
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/stoves/prop_stove_pCube4.uasset" 532
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/tablebar/blinn1.uasset" 533
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/level2/tablebar/prop_tablebar.uasset" 534
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Maps/level2.umap" 535
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/UI/Mainmenu.uasset" 536
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Maps/mainmenu.umap" 537
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Keytok/Maps/Testing/HybridMap.umap" 538
+"../../../Engine/Content/EngineMaterials/Grid.uasset" 539
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Rolling/Materials/PM_Ball.uasset" 540
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Rolling/Materials/M_Blue_Checker.uasset" 541
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Rolling/Meshes/BallMesh.uasset" 542
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/RollingBP/Blueprints/PhysicsBallBP.uasset" 543
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/RollingBP/Blueprints/RollingGameMode.uasset" 544
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/RollingBP/Maps/RollingBPExampleMap_BuiltData.uasset" 545
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Rolling/Materials/BaseMaterial.uasset" 546
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Rolling/Materials/GrayMaterial.uasset" 547
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Rolling/Materials/GrayMetalMaterial.uasset" 548
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Rolling/Materials/OrangeMetalMaterial.uasset" 549
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 550
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/Geometry/Meshes/TemplateFloor.uasset" 551
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/RollingBP/Maps/RollingBPExampleMap.umap" 552
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/VirtualRealityBP/Blueprints/HMDLocomotionPawn.uasset" 553
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/VirtualRealityBP/Maps/HMDLocomotionMap_BuiltData.uasset" 554
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/VirtualReality/Materials/M_BaseMaterial.uasset" 555
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/VirtualReality/Materials/MI_BaseMaterial2.uasset" 556
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/VirtualReality/Materials/MI_BaseMaterial3.uasset" 557
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/VirtualRealityBP/Maps/HMDLocomotionMap.umap" 558
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/VirtualReality/Materials/MI_SmallCubes.uasset" 559
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/VirtualRealityBP/Blueprints/BP_PickupCube.uasset" 560
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset" 561
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.uasset" 562
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" 563
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/VirtualRealityBP/Maps/StartupMap_BuiltData.uasset" 564
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/VirtualReality/Materials/GenericHMDMaterial.uasset" 565
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 566
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/VirtualReality/Meshes/GenericHMD.uasset" 567
+"../../../../../Kevin/Documents/Sem 6/VR/Test/Content/VirtualRealityBP/Maps/StartupMap.umap" 568
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 569
+"../../../Engine/Content/Maps/Entry.umap" 570
