@@ -10,6 +10,8 @@ D : Strafe Right
 
 C : Crouch
 
+F : Flashlight
+
 Shift : Run
 
 Left Mouse Button   : Grab / Release Object

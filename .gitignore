@@ -4,6 +4,7 @@ Intermediate
 Saved
 Content/*
 !Content/Keytok/
+!Content/Mannequin/
 .vscode
 .vs
 *.VC.db
